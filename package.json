@@ -16,5 +16,8 @@
     "mongoose": "^5.10.5",
     "nodemon": "^2.0.4",
     "pusher": "^3.0.1"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
